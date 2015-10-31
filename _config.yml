@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Amuwa.github.io
+title: Optimization Engineering
+tagline: Optimization, Engineering
+description: To Optimize in Engineering Style
+paginate: 5
