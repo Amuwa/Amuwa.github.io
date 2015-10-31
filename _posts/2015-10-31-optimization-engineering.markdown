@@ -1,6 +1,6 @@
 ---
 published: true
-title: Optimization Engineering
+title: Optimization Science
 layout: post
 ---
 For extremely complicated optimization problems, mathematical methods usually fail in finding the exact optima. Smart researchers resort to approximations, which are sometimes based on experience or intuition, and often unexplainable in rigorously mathematical ways. However, they may perform pretty well in practice.
