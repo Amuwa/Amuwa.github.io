@@ -11,7 +11,9 @@ If we compare the known mathematics to the Geocentrism (Geocentric Model), they 
 
 We are probably able to state that complication may be a lack of appropriate model. A scientific way is to observe, guess, experiment and revise. By repeating this iteration enough times, a much more accurate new model for the problem of interest is expected to form. However, the resulted model may be unable to be totally explained mathematically. So, it might be the mathematics' fault, isn't it?
 
-The equation, $ E=mc^{2} $ , absolutely seems to nonsense in mathematical meaning for a person doesn't know the physical relationship.
+The equation, $E=mc^{2}$, seems to be absolute nonsense in mathematical meaning for a person doesn't know the physical relationship. 
+
+If we develop a mathematical model for a physical system, it usually means that we have enough knowledge about the system. This is plausible for relatively small problems with straightforward mechanisms. However, for large complicated system, an appropriate mathematical model can be never developed without looking into the physical system itself.
 
 
 
