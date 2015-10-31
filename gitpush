@@ -7,6 +7,7 @@ git add _includes/*
 git add _layouts/*
 git add _posts/*
 git add public/*
+git add public/css/*
 git commit -m "update posts"
 git push origin master
 
