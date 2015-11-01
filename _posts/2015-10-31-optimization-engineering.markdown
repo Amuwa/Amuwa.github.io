@@ -15,5 +15,16 @@ The equation, $E=mc^{2}$, seems to be absolute nonsense in mathematical meaning 
 
 If we develop a mathematical model for a physical system, it usually means that we have enough knowledge about the system. This is plausible for relatively small problems with straightforward mechanisms. However, for large complicated system, an appropriate mathematical model can be never developed without looking into the physical system itself.
 
+An optimization problem can be formulated as objective function(s) and the valid domain, e.g. $\max f(x,y)= \sin(x+\max\{\|x\|, y\})$, where $x\in X, y\in Y$. A typical search procedure can be described as the following:
+* Select an initial point ($x_{0}, y_{0}$) in the domain 
+* Proceed to next point according to a direction, or to stop
+* Repeat the above two steps (until stopped)
+
+Obviously, the initial point selection and directions of each proceeding are critical to the performance of the procedure. In special cases, e.g., linear or convex, there are mature procedures and guidelines, e.g., the simplex method. 
+
+
+
+
+
 
 
