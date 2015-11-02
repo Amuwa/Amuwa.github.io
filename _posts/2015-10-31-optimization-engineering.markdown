@@ -26,6 +26,13 @@ An optimization problem can be formulated as objective function(s) and the valid
 
 Obviously, the initial point selection and directions of each proceeding are critical to the performance of the procedure. In special cases, e.g., linear or convex, there are mature procedures and guidelines, e.g., the simplex method. 
 
+##### Meta-strategy
+
+The term _Meta-Strategy_ is used to refer to a method for a strategy, i.e., a rule or procedure that generates outcomes based on available information and knowledge.
+
+
+
+
 
 
 
