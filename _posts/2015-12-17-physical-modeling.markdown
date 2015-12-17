@@ -1,6 +1,6 @@
 ﻿---
 published: true
-title: A Missing Phase in Optimization: Physical Modeling
+title: A Missing Phase in Optimization - Physical Modeling
 layout: post
 ---
 
