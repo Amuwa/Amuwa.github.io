@@ -6,4 +6,4 @@ title: Optimization Science
 tagline: Optimization, Science
 description: To Optimize in a Scientific Style
 paginate: 5
-theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
