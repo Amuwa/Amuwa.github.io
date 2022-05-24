@@ -1,6 +1,6 @@
 ---
 published: true
-title: Optimization Solvers for Power Grids: present and future
+title: Optimization Solvers for Power Grids
 layout: post
 ---
 
