@@ -1,7 +1,3 @@
-| published | title | layout |
-| :--:  | :--:  | :--:  |
-| true | Knowledge Acquisition Bottleneck | post |
-
 # Attacking Knowledge Acquisition Bottleneck: frameworks, algorithms and applications
 
 ## 1. Introduction
